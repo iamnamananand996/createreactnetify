@@ -1,0 +1,24 @@
+{
+  "name": "machine-hack",
+  "authors": [
+    "aim"
+  ],
+  "description": "A hackathon web app based on Material Design",
+  "main": "dist/index.js",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "google",
+    "twitter"
+  ],
+  "license": "This project belogs to Analytics India Magazine",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
